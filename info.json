@@ -1,0 +1,11 @@
+{
+  "name": "SmartInventorySize",
+  "version": "0.1.0",
+  "factorio_version": "0.14",
+  "title": "Smarter Inventory and Item Stack Sizer",
+  "author": "bdean20",
+  "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=34474",
+  "homepage": "https://github.com/bdean20/SmartInventorySize/",
+  "dependencies": ["?Larger Inventory >= 1.0.1"],
+  "description": "Adjusts stack sizes and inventory size to suit overhaul mods. Designed to reduce inventory management tedium when other mods add complexity to the game."
+}
